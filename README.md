@@ -1,1 +1,1 @@
-# classindustri.github.io
+# classindustri
