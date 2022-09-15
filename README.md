@@ -1,1 +1,1 @@
-# classindustri
+# class-industri
